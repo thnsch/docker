@@ -1,5 +1,8 @@
 
 
+https://www.youtube.com/watch?v=HG6yIjZapSA
+    4:30
+    
 https://docs.docker.com/get-started/02_our_app/
 https://docs.docker.com/get-started/resources/
 
